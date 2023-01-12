@@ -1,0 +1,8 @@
+# Do not index this site
+User-agent: *
+Disallow: /commercial/vi/vn/
+Disallow: /residential1/en/us/
+Disallow: /residential1/en/ca/
+Disallow: /commercial/zh/mo/
+
+Sitemap: https://www.carrier.com/sitemap_index.xml
